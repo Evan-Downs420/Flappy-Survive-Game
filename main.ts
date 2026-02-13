@@ -204,3 +204,6 @@ let block4 = sprites.create(img`
     9 9 9 9 7 7 7 7 7 7 7 9 9 9 9 9 
     `, SpriteKind.Block)
 block1.setPosition(74, 103)
+block2.setPosition(74, 91)
+blocks3.setPosition(74, 5)
+block4.setPosition(74, 20)
